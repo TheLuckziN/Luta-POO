@@ -15,7 +15,7 @@ Para testar o projeto, siga os passos abaixo:
 
 2. **Clone o Repositório**: Clone este repositório para o seu ambiente local.
    ```bash
-   git clone ttps://github.com/TheLuckziN/Luta-POO.git```
+   git clone ttps://github.com/TheLuckziN/Luta-POO.git
 
 3. **Execute o Projeto**: No terminal, execute o seguinte comando para rodar o projeto:
     dotnet run
