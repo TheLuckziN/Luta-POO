@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\UEC\bin\Debug\net7.0\UEC.exe
+C:\Users\lucas\Desktop\UEC\bin\Debug\net7.0\UEC.deps.json
+C:\Users\lucas\Desktop\UEC\bin\Debug\net7.0\UEC.runtimeconfig.json
+C:\Users\lucas\Desktop\UEC\bin\Debug\net7.0\UEC.dll
+C:\Users\lucas\Desktop\UEC\bin\Debug\net7.0\UEC.pdb
+C:\Users\lucas\Desktop\UEC\obj\Debug\net7.0\UEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\UEC\obj\Debug\net7.0\UEC.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\UEC\obj\Debug\net7.0\UEC.AssemblyInfo.cs
+C:\Users\lucas\Desktop\UEC\obj\Debug\net7.0\UEC.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\UEC\obj\Debug\net7.0\UEC.dll
+C:\Users\lucas\Desktop\UEC\obj\Debug\net7.0\refint\UEC.dll
+C:\Users\lucas\Desktop\UEC\obj\Debug\net7.0\UEC.pdb
+C:\Users\lucas\Desktop\UEC\obj\Debug\net7.0\UEC.genruntimeconfig.cache
+C:\Users\lucas\Desktop\UEC\obj\Debug\net7.0\ref\UEC.dll
