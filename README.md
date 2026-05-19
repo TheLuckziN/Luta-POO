@@ -1,24 +1,65 @@
-# Projeto Lutadores em C#
+# Simulador de Lutas em C#
 
-Este projeto em C# foi desenvolvido com o objetivo de estudar Programação Orientada a Objetos (POO), utilizando a analogia de uma liga de luta entre lutadores representados por objetos.
+Projeto console desenvolvido em C# para praticar fundamentos de Programação Orientada a Objetos por meio da simulação de confrontos entre lutadores.
+
+O sistema modela entidades como `Lutador` e `Luta`, aplica regras para validação de combates e atualiza o histórico dos participantes de acordo com o resultado.
+
+## Objetivo do projeto
+
+Este projeto foi desenvolvido como exercício de consolidação de conceitos fundamentais de POO, incluindo:
+
+- Classes e objetos
+- Encapsulamento
+- Métodos
+- Composição entre entidades
+- Regras de negócio simples
+- Atualização de estado dos objetos
 
 ## Funcionalidades
 
-- **MarcarLuta**: Método para marcar uma luta entre dois lutadores.
-- **Lutar**: Método para simular a luta entre os lutadores marcados.
+- Cadastro e representação de lutadores
+- Validação de confrontos por categoria
+- Marcação de lutas
+- Simulação de resultado
+- Atualização de vitórias, derrotas e empates
 
-## Como Testar
+## Tecnologias utilizadas
 
-Para testar o projeto, siga os passos abaixo:
+- C#
+- .NET
 
-1. **Pré-requisitos**: Certifique-se de ter o .NET SDK instalado na sua máquina.
+## Estrutura principal
 
-2. **Clone o Repositório**: Clone este repositório para o seu ambiente local.
-   ```bash
-   git clone ttps://github.com/TheLuckziN/Luta-POO.git
+- `lutador.cs`: define os atributos e comportamentos de cada lutador
+- `luta.cs`: controla as regras e a simulação do confronto
+- `main.cs`: ponto de entrada da aplicação
 
-3. **Execute o Projeto**: No terminal, execute o seguinte comando para rodar o projeto:
-    dotnet run
+## Como executar
 
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste projeto e enviar pull requests com melhorias.
+### Pré-requisitos
+
+- .NET SDK instalado
+
+### Passos
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/lucassousa-dev/Luta-POO.git
+```
+
+2. Acesse a pasta:
+
+```bash
+cd Luta-POO
+```
+
+3. Execute:
+
+```bash
+dotnet run
+```
+
+## Observação
+
+Este é um projeto de fundamentos, mantido no portfólio para demonstrar a base inicial em C# e Programação Orientada a Objetos.
